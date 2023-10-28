@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @flxxycoding
-- 👀 I’m interested in kotamobagu
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested coding web
+- 🌱 I’m currently learning coding
+- 💞️ I’m looking to collaborate on creat coding
+- 📫 How to reach me on instagram raffli.gobell
 
 <!---
 flxxycoding/flxxycoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
